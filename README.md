@@ -1,3 +1,3 @@
 # tip_calc
 
-Tip calculator using JS 
+Coded a tip calculator using JS 
